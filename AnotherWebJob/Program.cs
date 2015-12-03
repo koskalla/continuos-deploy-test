@@ -11,6 +11,7 @@ namespace AnotherWebJob
         static void Main(string[] args)
         {
             Console.WriteLine("Yet another web job");
+            Console.WriteLine("...");
         }
     }
 }
