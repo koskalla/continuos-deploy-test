@@ -12,6 +12,7 @@ namespace AnotherWebJob
         {
             Console.WriteLine("Yet another web job");
             Console.WriteLine("...");
+            Console.WriteLine("another line");
         }
     }
 }
